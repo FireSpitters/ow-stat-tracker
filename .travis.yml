@@ -6,4 +6,4 @@ script:
 install:
  — npm install -g firebase-tools
 after_success:
- — firebase deploy — project ow-stat-tracker-c6336 — token 1/GqkqYH4Ot02elYvKWmUudEnZSJZmSTceTo4NfGnpAvc.
+ — firebase deploy — project ow-stat-tracker-c6336 — token 1/-fOnUuSLQS0XuYdbveWyG8134FLJLXRnuzZ93_6C9tVnM303QQTb8G8LjLTUiVXx.
