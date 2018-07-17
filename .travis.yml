@@ -3,6 +3,7 @@ deploy:
 
 language: node_js
 node_js:
+  - "node"
   — “7”
 install:
   — npm install -g firebase-tools
