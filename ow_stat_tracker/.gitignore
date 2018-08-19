@@ -1,0 +1,13 @@
+# Super secret settings #
+#########################
+settings_secret.py
+
+### Python-specific stuff ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Django-specific stuff #
+#########################
+.env
+db.sqlite3
